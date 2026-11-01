@@ -112,4 +112,8 @@ Para refinar tu proyecto usando **solo HTML y CSS**, considera las siguientes bu
   - Carga diferida de imágenes no críticas: `<img loading="lazy" src="...">`.
   - Aprovecha `background-size: cover` y `background-position: center` para fondos CSS.
 
+<<<<<<< HEAD
+Al aplicar estas mejoras centradas en **HTML y 
+=======
 Al aplicar estas mejoras centradas en **HTML y CSS**, mantendrás un flujo de trabajo ágil, con pocas dependencias, y entregarás un código altamente mantenible y preparado para el futuro.
+>>>>>>> a1ce45b47e08c69f1fcd5251a1503932a84baac4
